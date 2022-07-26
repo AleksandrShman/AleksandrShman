@@ -27,8 +27,8 @@
 |---|---|---|---|
 | [NearMe](https://github.com/YuriBriliov/NearMe) | 💼 | Проект для сферы услуг потребителей и исполнителей |  Node.js, Express, CSS, Postgres, Sequelize, React, React-router, Redux, Redux-thunk.  |
 | [Сhess school](https://github.com/IliaisaChamp/chess) | 💼 | MVP. Школа по обучению детей игре в шахматы |  Node.js, Express, Handlebars, Materialize (стили и скрипты)|
-| [TelegramSinoptik]|---|TelegramBot сообщает данные о погоде в выбранном городе | Node.js, Expres, Работа с API Яндекс погоды и геопозиции(геокодера)|
-|[next-test](https://github.com/AleksandrShman/next-test)|---|---|---|
+| TelegramSinoptik|💼|TelegramBot сообщает данные о погоде в выбранном городе | Node.js, Expres, Работа с API Яндекс погоды и геопозиции(геокодера)|
+|[next-test](https://github.com/AleksandrShman/next-test)|💼|Тестовое приложение SPA на Next.js| Приложение позволяет выбрать одного из пользователей, полученных через API( с https://jsonplaceholder.typicode.com)  |
 
 
 ## Boilerplates & Education
