@@ -2,14 +2,15 @@
 
 # ✨ Привет, я Александр Шман. 
 ## Stack
-- Language: Javascript.
-- Frontend: CSS, React, Redux, Redux-thunk, Redux-saga, Next.
-- Backend: Node.js, Express, Redis.
-- Database:  SQL, PostgreSQL, Sequelize.
+- Language: Javascript, TypeScript.
+- Frontend: CSS/Sass, React, Redux, Redux-thunk, Redux-saga, Next.
+- Backend: Node.js, Express, Redis, Redis.
+- Database:  SQL, PostgreSQL, Sequelize, MySQL.
 
 ## Carrier Line
-1. (_Февраль 2021 -> Настоящее время_) - Техцентр «Авто Юго Запад» - Front-end developer/ Адмиистратор сайта.
-2. (_Июнь 2021 -> декабрь 2021_) - Elbrus Bootcamp coding
+1. (_Февраль 2021 -> Декабрь 2022_) - Техцентр «Авто Юго Запад» - Front-end developer/ Адмиистратор сайта.
+2. (_Июнь 2021 -> Декабрь 2021_) - SRK - Web-developer
+3. (_Март 2023 -> Август 2023_) - NoAdmin - Web-developer
 
 ## Skills
 <!-- - Prefer immutable programming implementation
@@ -26,9 +27,9 @@
 | Project Name | Type | Description | Technologies |
 |---|---|---|---|
 | [NearMe](https://github.com/YuriBriliov/NearMe) | 💼 | Проект для сферы услуг потребителей и исполнителей |  Node.js, Express, CSS, Postgres, Sequelize, React, React-router, Redux, Redux-thunk.  |
-| [Сhess school](https://github.com/IliaisaChamp/chess) | 💼 | MVP. Школа по обучению детей игре в шахматы |  Node.js, Express, Handlebars, Materialize (стили и скрипты)|
-| [WeatherYandexbot](https://github.com/AleksandrShman/weatherYbot)|💼|TelegramBot сообщает данные о погоде в выбранном городе | Node.js, Expres, Работа с API Яндекс погоды и геопозиции(геокодера)|
-|[next-test](https://github.com/AleksandrShman/next-test)|💼|Тестовое приложение SPA на Next.js| Приложение позволяет выбрать одного из пользователей, полученных через API( с https://jsonplaceholder.typicode.com)  |
+| [Сhess school](https://github.com/IliaisaChamp/chess) | 💼 | MVP. Школа по обучению детей игре в шахматы |  Node.js, Express, Handlebars, Materialize (стили и скрипты) |
+| [WeatherYandexbot](https://github.com/AleksandrShman/weatherYbot)|💼|TelegramBot сообщает данные о погоде в выбранном городе | Node.js, Expres, Работа с API Яндекс погоды и геопозиции(геокодера) |
+| [next-test](https://github.com/AleksandrShman/next-test)|💼|Тестовое приложение SPA на Next.js| Приложение позволяет выбрать одного из пользователей, полученных через API( с https://jsonplaceholder.typicode.com) |
 
 
 ## Boilerplates & Education
