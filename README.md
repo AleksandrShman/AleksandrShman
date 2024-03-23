@@ -4,13 +4,13 @@
 ## Stack
 - Language: Javascript, TypeScript.
 - Frontend: CSS/Sass, React, Redux, Redux-thunk, Redux-saga, Next.
-- Backend: Node.js, Express, Redis, Redis.
+- Backend: Node.js, Express, Redis.
 - Database:  SQL, PostgreSQL, Sequelize, MySQL.
 
 ## Carrier Line
 1. (_Февраль 2021 -> Декабрь 2022_) - Техцентр «Авто Юго Запад» - Front-end developer/ Адмиистратор сайта.
 2. (_Июнь 2021 -> Декабрь 2021_) - SRK - Web-developer
-3. (_Март 2023 -> Август 2023_) - NoAdmin - Web-developer
+3. (_Март 2023 -> Январь 2024_) - NoAdmin - Web-developer
 
 ## Skills
 <!-- - Prefer immutable programming implementation
