@@ -11,16 +11,17 @@
 1. (_Февраль 2021 -> Декабрь 2022_) - Техцентр «Авто Юго Запад» - Front-end developer/ Адмиистратор сайта.
 2. (_Июнь 2021 -> Декабрь 2021_) - SRK - Web-developer
 3. (_Март 2023 -> Январь 2024_) - NoAdmin - Web-developer
+4. (_Август 2023 -> По настоящее время_) - FreeLance - Web-developer
+5. (_Июль 2024 -> По настоящее время_) - MPGU - Frontend-developer
 
 ## Skills
 <!-- - Prefer immutable programming implementation
 - Actively using **ZSH** **NVIM** ([My dotfiles](https://github.com/javeoff/dotfiles))
-- Actively using SOLID, creational patterns
-- Configuring **Nginx**, **Apache**
-- Configuring **Webpack**, **ESlint**, **Babel**, **Jest**
+- Actively using SOLID, creational patterns -->
+- Configuring **Nginx**, **ESlint**, **Jest**
 - Work with Git (**VCS**) abstractions
 - Work with **Docker**, configuring **Dockerfile**
-- Learn [English B1->B2](https://github.com/javeoff/english-knowledge) (intermediate) -->
+- [English B1->B2]
 
 ## Projects
 
@@ -29,7 +30,7 @@
 | [NearMe](https://github.com/YuriBriliov/NearMe) | 💼 | Проект для сферы услуг потребителей и исполнителей |  Node.js, Express, CSS, Postgres, Sequelize, React, React-router, Redux, Redux-thunk.  |
 | [Сhess school](https://github.com/IliaisaChamp/chess) | 💼 | MVP. Школа по обучению детей игре в шахматы |  Node.js, Express, Handlebars, Materialize (стили и скрипты) |
 | [WeatherYandexbot](https://github.com/AleksandrShman/weatherYbot)|💼|TelegramBot сообщает данные о погоде в выбранном городе | Node.js, Expres, Работа с API Яндекс погоды и геопозиции(геокодера) |
-| [next-test](https://github.com/AleksandrShman/next-test)|💼|Тестовое приложение SPA на Next.js| Приложение позволяет выбрать одного из пользователей, полученных через API( с https://jsonplaceholder.typicode.com) |
+| [next-test](https://github.com/AleksandrShman/next-test)|💼|Тестовое приложение SPA на Next.js| Приложение позволяет выбрать одного из пользователей, полученных через API(с https://jsonplaceholder.typicode.com) | [AMICI](https://github.com/BekhanRay/social)| 💼 | Социальная сеть |  Python, Django, CSS, HTML, React |
 
 
 ## Boilerplates & Education
